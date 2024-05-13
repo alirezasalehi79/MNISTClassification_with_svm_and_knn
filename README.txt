@@ -1,0 +1,2 @@
+In this code, I first performed the necessary pre-processing to inject data into the algorithm, and then injected it into the algorithm and finally got a report on its classification.
+Also, by the confusion matrix, you can understand where the algorithm incorrectly labels the data
